@@ -27,8 +27,8 @@ To write a Python program to construct an **AVL tree**, balance it, and print th
 
 ## PYTHON PROGRAM
 ```python
-#Reg.no:212222060013
-#Name: AKSHAIYAN S
+#Reg.no:212222060252
+#Name: SREE DHARMA A V
 from TreeAVL.AVL import AVL
 
 def getDictTree(self):
